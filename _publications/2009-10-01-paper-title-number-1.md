@@ -1,6 +1,6 @@
 ---
 title: "Smoothing-Based Conformal Prediction for Balancing Efficiency and Interpretability"
-collection: papers
+collection: publications
 category: preprint
 paperurl: 'https://www.arxiv.org/abs/2509.22529'
 ---
