@@ -23,7 +23,7 @@ repository               : "mingyi811/mingyi811.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mingyi.png"
+  avatar           : "mingyi.jpg"
   name             : "Mingyi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "undergraduate @ SUFE"
