@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 layout: single          # 用普通单页布局，足够用了
 author_profile: true    # 让左边 sidebar 显示你的头像简介
 ---
