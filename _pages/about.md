@@ -11,13 +11,13 @@ I am a fourth-year undergraduate student from the School of Statistics and Data 
 
 My research focuses on developing statistical methodology for ML or AI models, combining theoretical rigor and practical application. Recently, I mainly work on uncertainty quantification with conformal prediction methods.
 
----
+
 
 ## Research Experience
 
 \* denotes equal contribution.
 
-### **Online Selective Conformal Prediction with Selection-Conditional Coverage** &nbsp; [[Preprint]](https://ying531.github.io/assets/files/PEMI_paper.pdf), [[Github]](https://github.com/mingyi811/PEMI)
+### **Online Selective Conformal Prediction with Asymmetric Rules: A Permutation Test Approach** &nbsp; [[Preprint]](https://ying531.github.io/assets/files/PEMI_paper.pdf), [[Github]](https://github.com/mingyi811/PEMI)
 **Mingyi Zheng**, Ying Jin
 
 - Proposed a general permutation-based framework for constructing prediction sets with selection-conditional coverage under arbitrary asymmetric online selection rules.
@@ -26,7 +26,7 @@ My research focuses on developing statistical methodology for ML or AI models, c
 
 
 
-### **Smoothing-Based Conformal Prediction for Interpretability** &nbsp; [[preprint]](http://arxiv.org/abs/2509.22529)
+### **Smoothing-Based Conformal Prediction for Balancing Efficiency and Interpretability** &nbsp; [[preprint]](http://arxiv.org/abs/2509.22529)
 **Mingyi Zheng\***, Hongyu Jiang\*, Yizhou Lu\*, Jiaye Teng
 
 - Proposed a smoothing-based framework for constructing prediction sets with better interpretability.
