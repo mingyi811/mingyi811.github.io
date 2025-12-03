@@ -26,7 +26,7 @@ My research focuses on developing statistical methodology for ML or AI models, c
 
 
 
-### **Smoothing-Based Conformal Prediction for Balancing Efficiency and Interpretability** &nbsp; [[preprint]](http://arxiv.org/abs/2509.22529)
+### **Smoothing-Based Conformal Prediction for Balancing Efficiency and Interpretability** &nbsp; [[Preprint]](http://arxiv.org/abs/2509.22529)
 **Mingyi Zheng\***, Hongyu Jiang\*, Yizhou Lu\*, Jiaye Teng
 
 - Proposed a smoothing-based framework for constructing prediction sets with better interpretability.
