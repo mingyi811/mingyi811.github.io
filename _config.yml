@@ -53,10 +53,6 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
 
-  links:
-    - label: "CV"
-      icon: "far fa-file-alt"
-      url: "/files/CV_2025_11_29(1).pdf"
 
   # Social media
   artstation       : # Username
